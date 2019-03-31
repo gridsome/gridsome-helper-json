@@ -52,6 +52,6 @@
       "ariaLastLabel"
     ],
     "defaults": [":info"],
-    "description": "Component which allows for easy pagination. Needs to be provided with the fields \"totalPages\" & \"currentPage\"."
+    "description": "Component which allows for easy pagination. The passed info object must include the fields \"totalPages\" & \"currentPage\"."
   }
 }
