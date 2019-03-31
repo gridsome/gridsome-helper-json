@@ -31,7 +31,7 @@
       "outside"
     ],
     "defaults": [":src"],
-    "description": "description for <g-image>"
+    "description": "Component that outputs an optimized progressive image. Will default to a standard img tag if javascript is not enabled."
   },
   "Pager": {
     "attributes": [
@@ -52,6 +52,6 @@
       "ariaLastLabel"
     ],
     "defaults": [":info"],
-    "description": "description for <Pager>"
+    "description": "Component which allows for easy pagination. Needs to be provided with the fields \"totalPages\" & \"currentPage\"."
   }
 }
