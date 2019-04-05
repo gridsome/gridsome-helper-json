@@ -1,3 +1,17 @@
+#### 1.0.1 (2019-04-05)
+
+##### Build System / Dependencies
+
+*  Remove package has security risk ([9a93a90a](https://github.com/gridsome/gridsome-helper-json/commit/9a93a90a9ae611cb72f77e06919936feaecd1e98))
+
+##### New Features
+
+*  Transfer repo ([9fd9ff37](https://github.com/gridsome/gridsome-helper-json/commit/9fd9ff37bd2374b6f975c9938ae9d5c9795db98d))
+
+##### Refactors
+
+*  Add missing descriptions ([#3](https://github.com/gridsome/gridsome-helper-json/pull/3)) ([b479b213](https://github.com/gridsome/gridsome-helper-json/commit/b479b21323f6e521c92f666846fa0335b8ffe44b))
+
 ## 1.0.0 (2019-02-19)
 
 ##### Refactors
