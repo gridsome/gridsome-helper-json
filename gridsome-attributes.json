@@ -69,46 +69,46 @@
   },
   "firstLabel": {
     "type": "string",
-    "description": ""
+    "description": "Content for the first page navigation link. Default: \"<<\""
   },
   "prevLabel": {
     "type": "string",
-    "description": ""
+    "description": "Content for the previous page navigation link. Default: \"<\""
   },
   "nextLabel": {
     "type": "string",
-    "description": ""
+    "description": "Content for the next page navigation link. Default: \">\""
   },
   "lastLabel": {
     "type": "string",
-    "description": ""
+    "description": "Content for the last page navigation link. Default: \">>\""
   },
   "ariaLabel": {
     "type": "string",
-    "description": ""
+    "description": "Accessibility definition for the whole component. Default: \"Pagination Navigation\""
   },
   "ariaLinkLabel": {
     "type": "string",
-    "description": ""
+    "description": "Accessibility definition for the page navigation links. Default: \"Go to page %n\""
   },
   "ariaFirstLabel": {
     "type": "string",
-    "description": ""
+    "description": "Accessibility definition for the first page navigation link. Default: \"Go to first page\""
   },
   "ariaCurrentLabel": {
     "type": "string",
-    "description": ""
+    "description": "Accessibility definition for the current page navigation link. Default: \"Current page. Page %n\""
   },
   "ariaPrevLabel": {
     "type": "string",
-    "description": ""
+    "description": "Accessibility definition for the previous page navigation link. Default: \"Go to previous page. Page %n\""
   },
   "ariaNextLabel": {
     "type": "string",
-    "description": ""
+    "description": "Accessibility definition for the next page navigation link. Default: \"Go to next page. Page %n\""
   },
   "ariaLastLabel": {
     "type": "string",
-    "description": ""
+    "description": "Accessibility definition for the last page navigation link. Default: \"Go to last page. Page %n\""
   }
 }
